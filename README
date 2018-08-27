@@ -1,0 +1,6 @@
+# Clash
+
+Tom Morrell
+
+A python function to detect a clash between residues in a protein and other
+residues in the protein.
